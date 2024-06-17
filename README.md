@@ -13,7 +13,7 @@ Welcome to the Banana Farmer Bot! This automation tool is designed to optimize y
 ## 🛠️ Installation
 
 Follow these steps to get started with the Banana Farmer Bot:
-
+Run the program, choose how many accounts you want, turn on the game, press F2.
 
 ## 🖥️ Usage
 
