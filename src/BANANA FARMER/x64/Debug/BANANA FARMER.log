@@ -1,0 +1,4 @@
+﻿  BANANA FARMER.cpp
+C:\Users\Dominik\source\repos\BANANA FARMER\BANANA FARMER\BANANA FARMER.cpp(36,20): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\Dominik\source\repos\BANANA FARMER\BANANA FARMER\BANANA FARMER.cpp(85,12): warning C4477: printf: Formátovací řetězec %d vyžaduje argument typu int, ale variadický argument 1 má typ unsigned __int64.
+  BANANA FARMER.vcxproj -> C:\Users\Dominik\source\repos\BANANA FARMER\x64\Debug\BANANA FARMER.exe
